@@ -41,7 +41,7 @@ This project is a React application that integrates with the JSONPlaceholder API
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aabhi-k/jsonplace.git
+   git clone https://github.com/aabhi-k/jsonplaceholder.git
    cd jsonplace
    ```
 
